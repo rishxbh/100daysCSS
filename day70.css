@@ -57,10 +57,12 @@
     margin-top: 50px;
     font-size: 20px;
     transition: font-size 200ms ease-in-out, margin-top 200ms ease-in-out;
+    cursor: pointer;
 }
 .date {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
 
     transition: font-size 200ms ease-in-out;
+    cursor: pointer;
 }
